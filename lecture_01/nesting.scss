@@ -1,0 +1,11 @@
+$color: red;
+$color_ul: green;
+div {
+  font-size: 18px;
+  p {
+    color: $color;
+  }
+  ul{
+    color:$color_ul;
+  }
+}
